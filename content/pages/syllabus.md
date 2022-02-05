@@ -43,12 +43,57 @@ It is very important that assignments (written and oral) be submitted or present
 
 At the end of the course you will be graded on your four essays, short writing exercises, oral presentations and general class and section attendance/participation.
 
-| TYPE OF ASSIGNMENT | % OF FINAL COURSE GRADE |
-| --- | --- |
-| Essays 1-3; Short Writing Exercises | 50 |
-| Final Research Essay | 25 |
-| Final Oral Presentations | 10 |
-| Class/Section Attendance/Participation | 15 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TYPE OF ASSIGNMENT
+{{< thclose >}}
+{{< thopen >}}
+% OF FINAL COURSE GRADE
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Essays 1-3; Short Writing Exercises
+{{< tdclose >}}
+{{< tdopen >}}
+50
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Research Essay
+{{< tdclose >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Oral Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class/Section Attendance/Participation
+{{< tdclose >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### Plagiarism
 
